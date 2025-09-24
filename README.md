@@ -8,7 +8,9 @@ Aşağıdaki adımları takip ederek gerekli bağımlılıkları yükleyebilir v
 Proje temel kodları bana ait değildir. SimpleGui diye saçma paralı bir sistem kullanıyordu o kodları kaldırıp ktinkter kütüphanesini dahil ettim.
 
 Kendi kullanım alanıma göre restore ettim. **Fish** Klasöründeki balıkları açması, **Drop** klasöründeki eşyaları atması gibi TAM AFK'da çalışacak bir demo elde ettim
-Çarşamba günleri balık eventinde 01:00-13:00 arası (10:00'da bakım devreye giriyor) Bu süreçte haftada 1 kez olmak üzere 2 kez full balık tutup test ettim.
+Çarşamba günleri balık eventinde 01:00-13:00 arası (10:00'da bakım devreye giriyor) Bu süreçte haftada 1 kez olmak üzere 3 kez full balık tutup test ettim.
+Yani kullanım sürem: çarşamba günleri 9saat aralıksız balık tuttu cumartesileri de oto puzzle ile oynattım (3. haftanın afk balık tutmasını tamamladım bakalım ne zaman ban atacaklar :d )
+
 Bu alanda kazanç görürsem muhtemelen metin2 farmına başlayabilirim. Aşağıda gerekli bilgilendirmeleri yapacağım:
 
 ---
