@@ -83,3 +83,9 @@ PyDirectInput ile oyun içi otomasyon mümkündür.
 ## Gece 02:32'de başlayıp Sabah 10:00'da biten balık botuyla topladığım kutu sayısı
 <img src="https://github.com/user-attachments/assets/6c884222-2fae-4e90-9cc5-9faaf92590c3" width="150"/>
 
+Part1:
+<img width="140" height="281" alt="image" src="https://github.com/user-attachments/assets/01513b29-6065-4e36-997c-c885f0e1cf10" />
+Part2:
+<img width="137" height="284" alt="image" src="https://github.com/user-attachments/assets/29f9b017-628d-40c7-8f14-af62a5389e1e" />
+
+
