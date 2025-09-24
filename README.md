@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/f08818e9-f215-4d43-9cc9-e37ef5264e71" width="500"/> </p>
+<img src="https://github.com/user-attachments/assets/f08818e9-f215-4d43-9cc9-e37ef5264e71" width="300"/>
+
 
 # 🚀 Proje Başlangıç Rehberi
 
