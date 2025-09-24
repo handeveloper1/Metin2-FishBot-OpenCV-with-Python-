@@ -40,8 +40,18 @@ source venv/bin/activate # Linux/Mac
 ```
 
 ##  🏗️ Çalıştırma
+
+Oyunu 800x600 olarak çözünürlüğünü düşürün. Benim ekranım 1920x1080 çözünürlükte olduğu için **Fish** ve **Drop** klasöründeki görselleri ona göre ayarlardım. Eğer o görselleri görüp işlem yapmıyorsa printscreen ile ss alıp sadece balık gözükecek şekilde croplayıp **siz fotoğrafları güncelleyin** tabi ki daha yüksek çözünürlüklü bir monitörünüz varsa bu işlem gerekebilir.
+2 bilgisayarda test ettim görüntü güncellemem gerekmedi
+-> Oyun çözünürlüğü **800x600**
+-> Monitörümün çözünürlüğü **1920x1080**
+
+```bash
 python hack.py
+```
 
-Eğer projeyi .exe olarak almak isterseniz
-
+### Eğer projeyi .exe olarak almak isterseniz
+```bash
+pyinstaller --onefile hack.py
+```
 
