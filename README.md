@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f08818e9-f215-4d43-9cc9-e37ef5264e71" width="300"/>
+<img src="https://github.com/user-attachments/assets/f08818e9-f215-4d43-9cc9-e37ef5264e71" width="150"/>
 
 
 # 🚀 Proje Başlangıç Rehberi
@@ -81,6 +81,5 @@ PyDirectInput ile oyun içi otomasyon mümkündür.
 2 part olarak farm attığım video'yu telif yememesi için sansürleyip youtube platformun'a atıyorum. 
 
 ## Gece 02:32'de başlayıp Sabah 10:00'da biten balık botuyla topladığım kutu sayısı
-<p align="center"> <img src="https://github.com/user-attachments/assets/6c884222-2fae-4e90-9cc5-9faaf92590c3" width="500" width="500"/> </p>
-
+<img src="https://github.com/user-attachments/assets/6c884222-2fae-4e90-9cc5-9faaf92590c3" width="150"/>
 
