@@ -29,8 +29,9 @@ Proje için aşağıdaki Python kütüphanelerini yüklemeniz gerekir:
 📌 Kütüphaneleri yüklemek için terminalde şu komutu çalıştırın:
 
 <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="120"/> </p>
+```bash
 pip install numpy opencv-python PyDirectInput pywin32 pytesseract tk pyinstaller
-
+```
 
 ### 1️⃣ Sanal Ortam (opsiyonel ama önerilir)
 ```bash
