@@ -29,6 +29,7 @@ Proje için aşağıdaki Python kütüphanelerini yüklemeniz gerekir:
 📌 Kütüphaneleri yüklemek için terminalde şu komutu çalıştırın:
 
 <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="120"/> </p>
+
 ```bash
 pip install numpy opencv-python PyDirectInput pywin32 pytesseract tk pyinstaller
 ```
@@ -60,7 +61,10 @@ pyinstaller --onefile hack.py
 ##  📸 Örnek Arayüz
 <p align="center"> <img src="https://user-images.githubusercontent.com/0000000/placeholder.png" width="500"/> </p>
 
-xxBurayaFotogelecexx
+<p align="center"> <img width="704" height="485" alt="image" src="https://github.com/user-attachments/assets/4d65e1c5-39cb-4b53-a325-ed4271480149" /> </p>
+<p align="center"> <img width="703" height="482" alt="image" src="https://github.com/user-attachments/assets/c666cf78-a9b3-45cf-9caf-905a553249e9" /> </p>
+<p align="center"> <img width="707" height="481" alt="image" src="https://github.com/user-attachments/assets/9cb5e873-889d-4c7c-abd2-9f8a119726e9" /> </p>
+
 
 ##  📌 Ekstra Bilgiler
 
