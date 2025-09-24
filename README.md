@@ -73,4 +73,7 @@ OpenCV ve numpy ile görüntü işleme yapabilirsiniz.
 PyDirectInput ile oyun içi otomasyon mümkündür.
 
 
+# 👑 Farm Testleri
+
+
 
