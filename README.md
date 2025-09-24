@@ -55,3 +55,18 @@ python hack.py
 pyinstaller --onefile hack.py
 ```
 
+
+##  📸 Örnek Arayüz
+<p align="center"> <img src="https://user-images.githubusercontent.com/0000000/placeholder.png" width="500"/> </p>
+
+xxBurayaFotogelecexx
+
+##  📌 Ekstra Bilgiler
+
+OCR kullanmak için Tesseract OCR kurulum exe'sini dosyalara ekledim fakat projedeki tesseract okuması aktif değil. Üzerinde çalışıp tekrar aktif ederim eğer bu işe devam edersem.Projenin orijinalinde bu kod vardı fakat deaktifti.
+📥 İndirme Linki (Windows)
+OpenCV ve numpy ile görüntü işleme yapabilirsiniz.
+PyDirectInput ile oyun içi otomasyon mümkündür.
+
+
+
