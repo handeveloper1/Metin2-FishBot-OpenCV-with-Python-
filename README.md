@@ -104,15 +104,15 @@ PyDirectInput ile oyun içi otomasyon mümkündür.
 # 🎥 Demo Videosu
 
 <p align="center">
-  <a href="https://youtu.be/2nHrGuvzhnU" target="_blank">
-    <img src="https://img.youtube.com/vi/2nHrGuvzhnU/maxresdefault.jpg" 
+  <a href="https://www.youtube.com/watch?v=f-gFqNOyDJs" target="_blank">
+    <img src="https://img.youtube.com/vi/f-gFqNOyDJs/maxresdefault.jpg" 
          alt="Proje Tanıtım Videosu" 
          width="600"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/2nHrGuvzhnU" target="_blank">
+  <a href="https://www.youtube.com/watch?v=f-gFqNOyDJs" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
          alt="YouTube'da İzle" 
          width="120"/>
