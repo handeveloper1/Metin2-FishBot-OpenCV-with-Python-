@@ -1,0 +1,7 @@
+numpy
+opencv-python
+PyDirectInput
+pywin32
+pytesseract
+tkinter
+pyinstaller
