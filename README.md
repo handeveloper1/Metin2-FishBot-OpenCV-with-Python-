@@ -59,6 +59,7 @@ Oyunu 800x600 olarak çözünürlüğünü düşürün. Benim ekranım 1920x1080
 -> Monitörümün çözünürlüğü **1920x1080**
 
 24.09.2025 tarihi ile sorunsuz çalışıp balık tutmaktadır. Eğer devam edersem projeyi güncellerim. Açık kaynaklı source olduğu için siz de güncelleyebilirsiniz. 
+Ban sorumluluğu kabul etmiyorum. 
 
 ```bash
 python hack.py
