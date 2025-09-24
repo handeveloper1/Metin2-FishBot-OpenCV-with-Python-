@@ -47,9 +47,18 @@ source venv/bin/activate # Linux/Mac
 ##  🏗️ Çalıştırma
 
 Oyunu 800x600 olarak çözünürlüğünü düşürün. Benim ekranım 1920x1080 çözünürlükte olduğu için **Fish** ve **Drop** klasöründeki görselleri ona göre ayarlardım. Eğer o görselleri görüp işlem yapmıyorsa printscreen ile ss alıp sadece balık gözükecek şekilde croplayıp **siz fotoğrafları güncelleyin** tabi ki daha yüksek çözünürlüklü bir monitörünüz varsa bu işlem gerekebilir.
+
+**Solucan**ı skillbar'a koyduğumuzda ve bittiğinde o slot boş kalıyordu. Bu yüzden balık tutarken inventory açık kalsın solucan.jpg'i bulup yem'e kendinisi tıklıyor.
+**Minik Balık** ve **karides** gibi yemler düşerse eğer solucanı kullanmayıp bu yemleri kullanıyor bu yemlerin yüzde şansı daha fazla boş geçmiyor.
+
+**Fish** klasöründeki balıkları fotolarından bulup açıyor. Ölü balıkları ikinci kısma koydum üst üste stakeleniyorlar
+**Drop** klasöründeki eldiven pelerin şeyleri gece tam AFK olduğumuz için yere atması için ayarlı.
+
 2 bilgisayarda test ettim görüntü güncellemem gerekmedi
 -> Oyun çözünürlüğü **800x600**
 -> Monitörümün çözünürlüğü **1920x1080**
+
+24.09.2025 tarihi ile sorunsuz çalışıp balık tutmaktadır. Eğer devam edersem projeyi güncellerim. Açık kaynaklı source olduğu için siz de güncelleyebilirsiniz. 
 
 ```bash
 python hack.py
@@ -92,7 +101,6 @@ PyDirectInput ile oyun içi otomasyon mümkündür.
 # 🎥 Demo Videosu
 
 <p align="center">
-  <!-- YouTube logosu + tıklanabilir video thumbnail -->
   <a href="https://www.youtube.com/watch?v=VİDEO_ID" target="_blank">
     <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" 
          alt="Proje Tanıtım Videosu" 
