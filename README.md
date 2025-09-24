@@ -1,5 +1,4 @@
-<img width="446" height="559" alt="a_ HAN ss (11)" src="https://github.com/user-attachments/assets/f08818e9-f215-4d43-9cc9-e37ef5264e71" />
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/f08818e9-f215-4d43-9cc9-e37ef5264e71" width="500"/> </p>
 
 # 🚀 Proje Başlangıç Rehberi
 
